@@ -29,7 +29,11 @@ To facilitate publication of contracting data to meet a variety of needs, OCDS p
 *   An **extension** mechanism to add additional key information to your OCDS data; and
 *   A free global **helpdesk**.
 
- ```
+```{eval-rst}
+.. admonition:: Objectives
+   :class: note
+
+   .. markdown::
 To learn more, go to the next page in the primer: How does OCDS work? You can also review the further resources below to go deeper into the subjects introduced on this page.
  
 [Implement Open Contracting](https://www.open-contracting.org/implement/)
