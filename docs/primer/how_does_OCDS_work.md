@@ -45,8 +45,9 @@ Whichever format you choose, following OCDS rules and guidance will help you to:
 *   Access a growing ecosystem of reusable tools and methodologies for working with OCDS data
 *   Compare your data with other publishers’ data to examine value for money and other types of analysis
 
- ```{eval-rst}
-.. note::
+```{eval-rst}
+.. admonition:: Learn More
+   :class: note
 
    .. markdown::
 
@@ -56,4 +57,3 @@ To learn more, go to the next page in the primer: How is OCDS data published? Yo
 [Why implement OCDS](https://www.open-contracting.org/data-standard/)
 [Open Contracting Playbook: Component 2](https://docs.google.com/document/d/1Y_sYOqUfdRdnvU6P8-aJFqWw9LaTNbbIPS0oJtmskCQ/edit#heading=h.44c3tmyw3edx)
 ```
-[Button: previous page]					   		     [Button: next page]
