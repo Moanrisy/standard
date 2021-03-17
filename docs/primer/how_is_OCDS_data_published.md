@@ -17,6 +17,8 @@ Within a contracting process, there are usually 5 stages associated with major e
 
 Each change is published as a new immutable release, rather than by updating an existing one. The collection of releases for a contracting process composes its change history. Each release contains an ocid to identify the contracting process it relates to. An ocid is composed of a prefix registered by the publisher, and a unique process identifier chosen by the publisher.
 
+![Contracting Process with releases](../_static/png/changehistory_process2.png)
+
 Tracking changes over time is important to users of contracting data because there can be many changes in the life of a contracting process. Understanding how and when certain attributes changed can help users to understand the process, identify inefficiencies, and spot red flags for corruption.
 
 **Records** are JSON documents that act as an index of all releases for a single contracting process, following the [record schema](https://standard.open-contracting.org/latest/en/schema/records_reference/). While releases are never updated, records are updated each time there is a change, and there should be only one for each contracting process. A record is updated by adding a new release to this index.
