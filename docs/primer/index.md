@@ -27,5 +27,3 @@ Beyond the Primer, OCDS provides detailed documentation to guide you in implemen
 *   [History](https://standard.open-contracting.org/latest/en/history/): Information about the changes in each version of the OCDS
 *   [Governance](https://standard.open-contracting.org/latest/en/governance/): Details about the stewardships, development, and revisions process for OCDS
 *   [Data Review Tool](https://standard.open-contracting.org/review/): A tool to help check whether your data is following the OCDS correctly.
-
-[Button: previous page]					   		     [Button: next page]
