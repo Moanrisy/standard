@@ -30,7 +30,7 @@ To facilitate publication of contracting data to meet a variety of needs, OCDS p
 *   A free global **helpdesk**.
 
 ```{eval-rst}
-.. admonition:: Objectives
+.. admonition:: Learn More
    :class: note
 
    .. markdown::
