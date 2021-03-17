@@ -20,6 +20,85 @@ OCDS builds on all three of these concepts, and the ultimate goal of OCDS is to 
 
 OCDS describes a way to model and publish data in a standardized way along entire public contracting processes, from planning through to delivery and payment.
 
+<style><!--
+.process-table { width:18%; float:left; font-size:10pt; }
+.process-table p { font-size:10pt; text-align: center; }
+.process-table img { width:80%; }
+--></style>
+
+<div style="width:100%">
+
+<div class="process-table" markdown=1>
+
+![Planning](../_static/svg/green_planning.svg)
+
+**Planning**<br/>
+*Including:*<br/>
+Budgets<br/>
+Project plans<br/>
+Procurement plans<br/>
+Market studies<br/>
+Public hearing info<br/>
+
+</div>
+
+<div class="process-table" markdown=1>
+
+![Tender](../_static/svg/green_tendering.svg)
+
+**Initiation (Tender)**<br/>
+*Including:*<br/>
+Tender notices<br/>
+Specifications<br/>
+Line items<br/>
+Values<br/>
+Enquiries
+
+</div>
+
+<div class="process-table" markdown=1>
+
+![Award](../_static/svg/green_awarded.svg)
+
+**Award**<br/>
+*Including:*<br/>
+Details of award<br/>
+Bidder information<br/>
+Bid evaluation<br/>
+Values
+
+</div>
+
+<div class="process-table" markdown=1>
+
+![Contract](../_static/svg/green_signed.svg)
+
+**Contract**<br/>
+*Including:*<br/>
+Final details<br/>
+Signed contract<br/>
+Amendments<br/>
+Values
+
+</div>
+
+<div class="process-table" markdown=1>
+
+![Implementation](../_static/svg/green_implementation.svg)
+
+**Implementation**<br/>
+*Including:*<br/>
+Payments<br/>
+Progress updates<br/>
+Location<br/>
+Extensions<br/>
+Amendments<br/>
+Completion or Termination info
+
+</div>
+
+</div>
+
 OCDS provides an open schema for publishing structured data as a foundation for effective open contracting. OCDS can help make sure that the contracting data you publish meet global best practices and are fit-for-purpose to meet the needs of a range of different users. 
 
 To facilitate publication of contracting data to meet a variety of needs, OCDS provides:
