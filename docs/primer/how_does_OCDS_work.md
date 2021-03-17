@@ -14,6 +14,8 @@ OCDS defines a unique contracting process as all the actions aimed at concluding
 
 An individual contracting process has many different stages. We bring together the data published at each stage using a single contracting process identifier: the **OCID**.
 
+![ocid](../_static/png/OCID.png)
+
 Using an OCID means that users can easily join up data across the whole contracting process – a key feature and benefit of publishing and using OCDS data.
 
 In designing OCDS, we explored a range of different user needs and use cases for data about public contracting. Each use case has different data needs in terms of data fields, documents, publication frequency, and data quality. OCDS provides a common framework to maximize the number of user needs that can be met through data and document disclosure.
