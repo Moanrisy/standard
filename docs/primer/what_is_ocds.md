@@ -37,4 +37,3 @@ To learn more, go to the next page in the primer: How does OCDS work? You can al
 [What is open data?](https://opendatahandbook.org/guide/en/what-is-open-data/)
 [What are data standards?](https://standards.theodi.org/introduction/what-are-open-standards-for-data/)
 ```
-[Button: previous page]					   		     [Button: next page]
