@@ -33,7 +33,8 @@ When you publish data, you are encouraged to:
 *   Publish versions of the data for users to access in CSV for Excel formats
 
 ```{eval-rst}
-.. note::
+.. admonition:: Learn More
+   :class: note
 
    .. markdown::
 
@@ -43,5 +44,3 @@ To learn more, go to the next page in the primer: How can I implement OCDS? You 
 [OCDS Schema Record Reference](https://standard.open-contracting.org/latest/en/schema/records_reference/)
 [Using Open Contracting Data](https://www.open-contracting.org/data/data-use/#tools)
 ```
-
-[Button: previous page]					   		     [Button: next page]
