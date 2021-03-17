@@ -23,6 +23,8 @@ Tracking changes over time is important to users of contracting data because the
 
 **Records** are JSON documents that act as an index of all releases for a single contracting process, following the [record schema](https://standard.open-contracting.org/latest/en/schema/records_reference/). While releases are never updated, records are updated each time there is a change, and there should be only one for each contracting process. A record is updated by adding a new release to this index.
 
+![Contracting Process with releases](../_static/png/record_components.png)
+
 Records and releases each contain several fields which can be used in different sections. OCDS’ schema sets out the fields that ought to be included in each section (where applicable), aiming to reuse simple structures to represent information. For example, a release may contain information about items being procured. OCDS’ schema sets out standard building blocks for items across releases, including the name of the item, a description, each item’s value, and the currency used.
 
 Some schema fields refer to [codelists](https://standard.open-contracting.org/latest/en/schema/codelists/), to limit and standardize the possible values of the fields, in order to promote data interoperability.
