@@ -29,7 +29,7 @@ OCDS also offers a free helpdesk service to support you in publishing or using O
 Helpdesk support is available in English and Spanish and delivered through collaboration with the Open Data Services Cooperative in the United Kingdom and Centro de Desarrollo Sostenible in Paraguay. If you have a question about OCDS implementation, e-mail [data@open-contracting.org](mailto:data@open-contracting.org) and a member of the OCDS Helpdesk will be in touch with you soon.
 
 ```{eval-rst}
-.. admonition:: Objectives
+.. admonition:: Learn more
    :class: note
 
    .. markdown::
